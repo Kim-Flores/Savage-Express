@@ -1,4 +1,4 @@
-![21 Savage](.jpg)
+![21 Savage](savage.png)
 
 ## Installation
 
